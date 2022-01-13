@@ -4,7 +4,7 @@
 
 - 📈 I’m currently working on a personalized trading bot
 - 🃏 I’m currently learning Selenium and poker strategies
-- 🥅 2022 Goals: Build more projects and learn to cook
+- 🥅 My 2022 goals are to build more projects and learn to cook
 - ⚡ Fun fact: I love playing cards and I've launched two Kickstarters with both [Launch Edition](https://www.kickstarter.com/projects/transflux/transflux-playing-cards-launch-edition) and [Second Edition](https://www.kickstarter.com/projects/transflux/transflux-playing-cards-second-edition)
 
 ### Connect with me:
@@ -24,6 +24,8 @@
 <code><img height="20" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+
+<img align="left" alt="Tyler Xu's GitHub Stats" src="https://github-readme-stats-beige-pi.vercel.app/api?username=tylercxu&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
 
 [linkedin]: https://www.linkedin.com/in/tylercxu/
 [instagram]: https://www.instagram.com/tylerc.xu/
