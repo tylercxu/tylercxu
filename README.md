@@ -3,9 +3,9 @@
 ## I'm a Student, Developer, and Playing Card Enthusiast!
 
 - 📈 I’m currently working on a personalized trading bot
-- 🃏 I’m currently learning Selenium and poker strategies
+- 🃏 I’m currently learning selenium and poker strategies
 - 🥅 My 2022 goals are to build more projects and learn to cook
-- ⚡ Fun fact: I love playing cards and I've launched two Kickstarters with both [Launch Edition](https://www.kickstarter.com/projects/transflux/transflux-playing-cards-launch-edition) and [Second Edition](https://www.kickstarter.com/projects/transflux/transflux-playing-cards-second-edition)
+- 🎴 Fun fact: I love playing cards and I've launched two Kickstarters with both [Launch Edition](https://www.kickstarter.com/projects/transflux/transflux-playing-cards-launch-edition) and [Second Edition](https://www.kickstarter.com/projects/transflux/transflux-playing-cards-second-edition)
 
 ### Connect with me:
 
