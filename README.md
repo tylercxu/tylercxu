@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://www.linkedin.com/in/tylercxu/" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][linkedin]
-[<img align="left" alt="https://www.instagram.com/tylerc.xu/" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][instagram]
+[<img align="left" alt="https://www.linkedin.com/in/tylercxu/" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
+[<img align="left" alt="https://www.instagram.com/tylerc.xu/" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
 
 </br>
 
