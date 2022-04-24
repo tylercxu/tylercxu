@@ -3,7 +3,7 @@
 ## I'm a Student, Developer, and Playing Card Enthusiast!
 
 - 📈 I’m currently working on a personalized trading bot
-- 🃏 I’m currently learning Three.js
+- 🃏 I’m currently learning poker strategy
 - 🥅 My 2022 goals are to build more projects and learn to cook
 - 🎴 Fun fact: I love playing cards and I've launched two fully funded Kickstarters: [Launch Edition](https://www.kickstarter.com/projects/transflux/transflux-playing-cards-launch-edition) and [Second Edition](https://www.kickstarter.com/projects/transflux/transflux-playing-cards-second-edition)
 
